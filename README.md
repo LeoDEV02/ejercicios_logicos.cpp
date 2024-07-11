@@ -16,9 +16,7 @@ Este repositorio contiene una colección de enunciados de programación para pra
 ## Estructura del Repositorio
 
 - `enunciados/`: Directorio que contiene los enunciados de los problemas.
-- `soluciones/`: Directorio que contiene las soluciones a los problemas.
-- `documentacion/`: Directorio que contiene la documentación y explicaciones de las soluciones.
-
+- `EYA/`: Directorio que contiene un libro de texto donde se encuentran algoritmos muy utiles junto a los enunciados actuales.
 
 ## Instalacion
 
