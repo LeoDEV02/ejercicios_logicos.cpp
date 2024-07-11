@@ -1,3 +1,18 @@
+
+
+<a name="readme-top"></a>
+
+<div align="center">
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+<a href="https://github.com/LeoDEV02/ejercicios_logicos.cpp">
+  <img width="300px" src="https://temario-del-curso.netlify.app/Images/logo.png" alt="Logo" width="800" />
+</a>
+
 # Ejercicios Lógicos en C++
 
 Este repositorio contiene una colección de enunciados de programación para practicar y mejorar tus habilidades en C++. Cada enunciado incluye su respectiva solución y documentación detallada.
@@ -44,3 +59,14 @@ Por favor, adhiérase al `Codigo De Conducta` de este proyecto.
 <a href="https://github.com/LeoDEV02/ejercicios_logicos.cpp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LeoDEV02/ejercicios_logicos.cpp" />
 </a>
+
+
+![Logo](https://temario-del-curso.netlify.app/Images/logo.png)
+
+
+## Licencias
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
